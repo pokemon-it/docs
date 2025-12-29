@@ -3,5 +3,6 @@
 2) Admin insert unrevealed card into each pool. e.g 1000 cards in basic pool.
 3) Player buy a pack then contract will randomly choose 1 card from targetted pool. Odd change accordingly.
 4) In anytime admin can add new unrevealed card to pool. Odd change accordingly.
-5) If not satisfy, player can trigger buy back
+5) If not satisfy, player can trigger buy back and get back 90% within 1 hour.
+6) after 1 hour, the reveal card still belong to platform until player update receive status only nft owner will switch to him.
    
