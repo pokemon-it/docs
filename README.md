@@ -7,7 +7,6 @@
 - If not satisfy, player can trigger buy back and get back 90% within 1 hour.
 - after 1 hour, the reveal card still belong to platform until player update receive status only nft owner will switch to him.
 ### 1.1) Bonus
-- Overriding bonus.
 
 | Rank Name | % | Personal Sales | Group Sales | Direct  |
 |--|--|--|--|--|
@@ -22,6 +21,7 @@
 | V9 | 28 | 500 | 300K | 0|
 | V10 | 3O | 1000 | 500K | 0|
 
+- Overriding bonus. max payout per pack order is 30%.
 - PV is 30% of pack amount.
 - Max depth is 30.
 - Bonus is distributed right away when user buy pack. no overpay as pack amount $100 is enough to cover both buy back ($50) and bonus ($30). 
