@@ -21,7 +21,7 @@
 | V9 | 28 | 500 | 300K | 0|
 | V10 | 30 | 1000 | 500K | 0|
 
-- Overriding bonus. Max payout per pack order is 30%.
+- Overriding bonus. Max payout per pack order is 30%. Leftover amount will go to marketing beneficiary.
 - PV is 30% of pack amount.
 - Max depth is 30.
 - Bonus is distributed right away when user buy pack. no overpay as pack amount $100 is enough to cover both buy back ($50) and bonus ($30). 
