@@ -21,8 +21,8 @@
 | V9 | 28 | 500 | 300K | 0|
 | V10 | 30 | 1000 | 500K | 0|
 
-- Overriding bonus. Max payout per pack order is 30%. Leftover amount will go to marketing beneficiary.
-- PV is 30% of pack amount.
+- Overriding bonus. Leftover amount will go to marketing beneficiary.
+- Max payout per pack order is 30%.
 - Max depth is 30.
 - Bonus is distributed right away when user buy pack. no overpay as pack amount $100 is enough to cover both buy back ($50) and bonus ($30). 
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
