@@ -19,7 +19,7 @@
 | V7 | 24 | 400 | 100K | 0|
 | V8 | 26 | 400 | 150K| 0|
 | V9 | 28 | 500 | 300K | 0|
-| V10 | 3O | 1000 | 500K | 0|
+| V10 | 30 | 1000 | 500K | 0|
 
 - Overriding bonus. Max payout per pack order is 30%.
 - PV is 30% of pack amount.
@@ -28,5 +28,5 @@
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Every month user need maintain personal sales, user will be qualified by this month and next month for first time purchase, next month if he purchase nothing then he is not qualified for month after next month.
 - Group sales will maintain 6 months only, 7th month will flush first month, 8th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688 + 687 + 686 + 685.
-- A referred user is considered qualified only if he has monthly maintenance.
+- A referred user is qualified only if he does maintain personal sales (minimum $100).
    
