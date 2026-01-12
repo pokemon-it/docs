@@ -32,7 +32,9 @@
 - Max depth is 30.
 - Bonus is distributed right away when user buy pack.
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
-- Every month user need maintain personal sales, user will be qualified by this month and next month for first time purchase, next month if he purchase nothing then he is not qualified for month after next month.
+- Every month user need maintain personal sales
+  - user will be qualified by this month and next month for first time purchase
+  - if user purchase next mo, then he is qualified for month after next month, else he is not qualified for month after next month.
 - Group sales will maintain 6 months only, 7th month will flush first month, 8th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688 + 687 + 686 + 685.
 - A referred user is qualified only if he does maintain personal sales (minimum $100).
    
