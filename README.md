@@ -35,6 +35,7 @@
 - Every month user need maintain personal sales
   - user will be qualified by 1st month and 2nd month for `first month purchase`.
   - 3rd month qualified only if user purchase at 2nd month, else 3rd amonth will always be disqualified.
+  - after `first month purchase`, purchase is to maintain next month.
 - Group sales will maintain 6 months only, 7th month will flush first month, 8th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688 + 687 + 686 + 685.
 - A referred user is qualified only if he does maintain personal sales (minimum $100).
    
