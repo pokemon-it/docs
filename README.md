@@ -10,7 +10,7 @@
   - ✅ Has profit. e.g pack amount $100, buy back $50 and bonus $30. Profit = 100 - (50 + 30) = 20.
   - ❌ Has no profit. e.g pack amount $100, buy back $1500 and bonus $30, Profit = 100 - (1500 + 30) = -1430.
 - Ready admin a method to claim back redundant usdt from buypack contract.
-- Manipulation.
+- Manipulation. Admin can mark specific card to prevent from user purchase.
 
 ## 2) Pack Bonus
 
