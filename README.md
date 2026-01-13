@@ -8,8 +8,8 @@
 - One user can stake more than one NFT.
 
 ## 2) ROI
-- 1 round = 7 days 
-- Round and interest table.
+- 1 round = 7 days.
+- Round and daily interest. This is not compound!
 
 | Round | Daily Interest (%) |
 |--|--|
