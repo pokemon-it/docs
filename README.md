@@ -32,7 +32,7 @@
 | 17 | 0.7  |
 
 - NFT will continue generate reward even after round 17 and capped by 200% of nft value.
-- Each round lasts 7 days. Users may claim rewards only after the round ends. During an running round, users can view accumulated rewards in real time but not allow to claim.
+- Each round lasts 7 days. Users may claim rewards only after that round ends. During an running round, users can view accumulated rewards in real time but not allow to claim it.
 - if user surrended before round end, he will lost accumulative reward of that round.
 - Example 1. At day 17 * 7 th, total payout percentage is 60.34%.
 - Example 2. no payout when user unstake nft at day 3.
