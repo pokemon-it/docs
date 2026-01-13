@@ -56,7 +56,9 @@
 - Base amount of % is roi bonus. Mean this bonus will distribute when user claim roi bonus.
 - Max directs is 30. Exclude direct with biggest sales then sum the rest (29 directs) to determine user's rank.
 - Upline will not entitle if pass up roi bonus is from direct with biggest sales.
-- 
+
+## 4) Leadership Bonus
+- ?
 
 # Marketplace 
 ## 1) Pack Logic
