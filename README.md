@@ -38,6 +38,26 @@
 - Example 2. no payout when user unstake nft at day 3.
 - Example 3. payout is 0.3% * 7 when user unstake nft at day 7 and round is ended.
 
+## 3) Group Bonus
+
+| Rank Name | Small Leg Sales | % |
+|---|---|---|
+| P1 | 0 | 10 |
+| P2 | 0 | 20 |
+| P3 | 0 | 30 |
+| P4 | 0 | 40 |
+| P5 | 0 | 50 |
+| P6 | 0 | 55 |
+| P7 | 0 | 60 |
+| P8 | 0 | 65 |
+| P9 | 0 | 70 |
+
+- Overriding.
+- Base amount of % is roi bonus. Mean this bonus will distribute when user claim roi bonus.
+- Max directs is 30. Exclude direct with biggest sales then sum the rest (29 directs) to determine user's rank.
+- Upline will not entitle if pass up roi bonus is from direct with biggest sales.
+- 
+
 # Marketplace 
 ## 1) Pack Logic
 - Each group (happen at contract level, it is hidden from frontend) has many pools, at starting company will launch 3 pools, which is `Basic` ($10), `Pro` ($50) & `Master`($100) respectively.
