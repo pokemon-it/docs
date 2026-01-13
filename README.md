@@ -1,5 +1,13 @@
 # Pokedao
-## 1) ROI
+
+## 1) NFT
+- Two packages: a) $1000 & b) $10000
+- Reward is capped by 200% of nft value. e.g $1000 package has $2000 quota.
+- NFT's quota will reduce when user receive reward.
+- Max cap includes both passive and active income.
+- One user can stake more than one NFT.
+
+## 2) ROI
 - 1 round = 7 days 
 - Round and interest table.
 
