@@ -8,8 +8,6 @@
 - One user can stake more than one NFT.
 
 ## 2) ROI
-- 1 round = 7 days.
-- Round and daily interest. This is not compound!
 
 | Round | Daily Interest (%) |
 |--|--|
@@ -31,6 +29,7 @@
 | 16 | 0.69  |
 | 17 | 0.7  |
 
+- 1 round = 7 days.
 - NFT will continue generate reward even after round 17 and capped by 200% of nft value.
 - Each round lasts 7 days. Users may claim rewards only after that round ends. During an running round, users can view accumulated rewards in real time but not allow to claim it.
 - if user surrended before round end, he will lost accumulative reward of that round.
@@ -58,7 +57,13 @@
 - Upline will not entitle if pass up roi bonus is from direct with biggest sales.
 
 ## 4) Leadership Bonus
-- ?
+
+动态： 
+直推一个拿第一代 10%
+直推两个拿第二代 20%
+直推两个拿第三代 30%
+直推两个拿第四代 40%
+直推两个拿第五代 50%
 
 # Marketplace 
 ## 1) Pack Logic
