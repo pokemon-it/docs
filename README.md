@@ -1,3 +1,31 @@
+# Pokedao
+## 1) ROI
+- 1 round = 7 days 
+- Round and interest table.
+
+| Round | Daily Interest (%) |
+|--|--|
+| 1 | 0.3 |
+| 2 | 0.33 |
+| 3 | 0.36|
+| 4 | 0.39 |
+| 5 | 0.40 |
+| 6 | 0.43| 
+| 7 | 0.46 | 
+| 8 | 0.49 |
+| 9 | 0.50 |
+| 10 | 0.53 |
+| 11 | 0.56 |
+| 12 | 0.59 |
+| 13 | 0.60 |
+| 14 | 0.63 |
+| 15 | 0.66 |
+| 16 | 0.69  |
+| 17 | 0.7  |
+
+- NFT will continue generate reward even after round 17 and capped by 200% of nft value.
+- e.g at day 17 * 7 th, total payout percentage is 60.34%, 
+
 # Marketplace 
 ## 1) Pack Logic
 - Each group (happen at contract level, it is hidden from frontend) has many pools, at starting company will launch 3 pools, which is `Basic` ($10), `Pro` ($50) & `Master`($100) respectively.
