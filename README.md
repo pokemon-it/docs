@@ -52,18 +52,21 @@
 | P9 | 1000000 | 70 |
 
 - Overriding.
-- Base amount times % is from roi bonus. Mean this bonus will distribute when user claim roi bonus.
+- Base amount of % is from roi bonus. Mean this bonus will distribute when user claim roi bonus.
 - Max directs is 30. Exclude direct with biggest sales and sum the rest (29 directs) to determine user's rank.
 - Upline will not entitle if pass up roi bonus is from direct with biggest sales.
 
 ## 4) Leadership Bonus
-
+... writting ...
+... writting ...
 动态： 
 - 直推一个拿第一代 10%
 - 直推两个拿第二代 20%
 - 直推两个拿第三代 30%
 - 直推两个拿第四代 40%
 - 直推两个拿第五代 50%
+... writting ...
+... writting ...
 
 # Marketplace 
 ## 1) Pack Logic
