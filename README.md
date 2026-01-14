@@ -80,20 +80,20 @@ A (50%)
      \
       D (20%)
        \
-        E (10%)
+        E (10%), E's roi matching = $2000
          \ 
-          F (10%)
+          F (10%), F's roi matching = $1000
            \ 
-      G's active income = $1000
+            G's roi matching = $1000
 
-F entitles 10% with 1 level, F reward = ($1000 * 10%) = $100
-E entitles 10% with 1 level, E reward = ($100 * 10%) = $10
-D entitles 20% with 2 levels, D reward = ($10 * 10%) + ($100 * 20%) = $21
-C entitles 30% with 3 levels, C reward = ($21 * 10%) + ($10 * 20%) + ($100 * 30%) = $34.1 
-B entitles 40% with 4 levels, B reward = ($34.1 * 10%) + ($21 * 20%) + ($10 * 30%) + ($100 * 40%) = $50.61
-A entitles 50% with 5 levels, A reward = ($50.61 * 10%) + ($34.1 * 20%) + ($21 * 30%) + ($10 * 40%) + ($100 * 50%) = $72.181
+G reward = $1000
+F entitles 10% with 1 level, F reward = $1000 + ($1000 * 10%) = $1100
+E entitles 10% with 1 level, E reward = $2000 + ($1100 * 10%) = $2110 
+D entitles 20% with 2 levels, D reward = ($2110 * 10%) + ($1100 * 20%) = $431 
+C entitles 30% with 3 levels, C reward = ($431 * 10%) + ($2110 * 20%) + ($1100 * 30%) = $795.1 
+B entitles 40% with 4 levels, B reward = ($795.1 * 10%) + ($431 * 20%) + ($2110 * 30%) + ($1100 * 40%) = $1238.71
+A entitles 50% with 5 levels, A reward = ($1238.71 * 10%) + ($795.1 * 20%) + ($431 * 30%) + ($2110 * 40%) + ($1100 * 50%) = $1806.191
 
-total distribution = $287.891
 ```
 
 
