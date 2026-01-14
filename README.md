@@ -44,12 +44,12 @@
 | P1 | 1000 | 10 |
 | P2 | 5000 | 20 |
 | P3 | 10000 | 30 |
-| P4 | 20000 | 40 |
-| P5 | 50000 | 50 |
-| P6 | 100000 | 55 |
-| P7 | 250000 | 60 |
-| P8 | 500000 | 65 |
-| P9 | 1000000 | 70 |
+| P4 | 50000 | 40 |
+| P5 | 100000 | 50 |
+| P6 | 500000 | 55 |
+| P7 | 1000000 | 60 |
+| P8 | 5000000 | 65 |
+| P9 | 10000000 | 70 |
 
 - Overriding.
 - Base amount of % is from roi bonus. Mean this bonus will distribute when user claim roi bonus.
