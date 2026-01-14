@@ -72,7 +72,7 @@
 ## 5) Tree
 - Same tree shared between crm and marketplace.
 - Since max directs is fixed with 30, user allow to remove specific direct and removing direct will park under root.
-- Remove direct can be painful as it will deduct uplines's group sales in both marketplace and crm. THINK TWICE IS NEEDED.
+- Remove direct will deduct uplines's group sales, this will only affects crm's group sales.
 - Only user with real sales through buy pack or nft stake can enroll to tree.
 
 # Marketplace 
