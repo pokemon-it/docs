@@ -30,6 +30,7 @@
 | 16 | 0.69  |
 | 17 | 0.7  |
 
+- Passive bonus
 - 1 round = 7 days.
 - NFT will continue generate reward even after round 17 and capped by 200% of nft value.
 - Reward is only claimable when round ends. During active round, user can view accumulated rewards in real time but not allow to claim it.
@@ -52,6 +53,7 @@
 | P8 | 5000000 | 65 |
 | P9 | 10000000 | 70 |
 
+- Active bonus
 - Overriding + ROI Matching
 - Reward = roi bonus * percentage, therefore this bonus will distribute only when user claim roi bonus.
 - Max directs is 30. Exclude direct with biggest sales and sum the rest (29 directs) to determine user's rank.
@@ -67,6 +69,7 @@
 | 7 | 4 | 40% | 
 | 9 | 5 | 50% | 
 
+- Active bonus
 ```
 A (50%)
  \
