@@ -80,7 +80,7 @@ A (50%)
          \ 
           F (10%)
            \ 
-      G contribute $1000 sales
+      G's active income = $1000
 
 F entitles 10% with 1 level, F reward = ($1000 * 10%) = $100
 E entitles 10% with 1 level, E reward = ($100 * 10%) = $10
