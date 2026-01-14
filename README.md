@@ -6,6 +6,7 @@
 - NFT's quota will reduce when user receive reward.
 - Quota calculation includes both passive and active income.
 - One user can stake more than one NFT.
+- NFT can sell in marketplace 
 
 ## 2) ROI
 
