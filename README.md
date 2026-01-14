@@ -73,9 +73,7 @@
 - In anytime admin can add new unrevealed card to pool. Odd change accordingly.
 - Player can trigger buy back and receive buy back amount within 1 hour. Buy back card will fallback to pool again.
 - After 1 hour, the reveal card still belong to platform until player update receive status only nft owner will switch to him.
-- When buy pack, only profit part will directly transfer to profit beneficiary on the spot.
-  - ✅ Has profit. e.g pack amount $100, buy back $50 and bonus $30. Profit = 100 - (50 + 30) = 20.
-  - ❌ Has no profit. e.g pack amount $100, buy back $1500 and bonus $30, Profit = 100 - (1500 + 30) = -1430.
+- Buy pack amount will stay in contract until admin claim it.
 - Ready admin a method to claim back redundant usdt from buypack contract.
 - Manipulation. Admin can mark specific card to prevent it from user purchase.
 
