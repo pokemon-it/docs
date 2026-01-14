@@ -40,7 +40,7 @@
 
 ## 3) Group Bonus
 
-| Rank Name | Small Leg Sales | % |
+| Rank Name | Small Leg Sales | Percentage (%) |
 |---|---|---|
 | P1 | 1000 | 10 |
 | P2 | 5000 | 20 |
@@ -52,8 +52,8 @@
 | P8 | 5000000 | 65 |
 | P9 | 10000000 | 70 |
 
-- Overriding.
-- Base amount of % is from roi bonus. Mean this bonus will distribute when user claim roi bonus.
+- Overriding + ROI Matching
+- Reward = roi bonus * percentage, therefore this bonus will distribute only when user claim roi bonus.
 - Max directs is 30. Exclude direct with biggest sales and sum the rest (29 directs) to determine user's rank.
 - Upline will not entitle if pass up roi bonus is from direct with biggest sales.
 
