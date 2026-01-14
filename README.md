@@ -1,4 +1,4 @@
-# Pokedao
+# Pokedao (CRM)
 
 ## 1) NFT
 - Two packages: a) $1000 & b) $10000
@@ -67,6 +67,11 @@
 - 直推两个拿第五代 50%
 - ... writting ...
 - ... writting ...
+
+## 5) Tree
+- Same tree shared between crm and marketplace.
+- Since max directs is fixed with 30, user allow to remove specific direct and removing direct will park under root.
+- Remove direct can be painful as it will deduct uplines's group sales in both marketplace and crm.
 
 # Marketplace 
 ## 1) Pack Logic
