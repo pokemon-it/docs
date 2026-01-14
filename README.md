@@ -67,6 +67,31 @@
 | 4 | 4 | 40% | 
 | 5 | 5 | 50% | 
 
+```
+A (50%)
+ \
+  B (40%)
+   \
+    C (30%)
+     \
+      D (20%)
+       \
+        E (10%)
+         \ 
+          F (10%)
+           \ 
+      G contribute $1000 sales
+
+F entitles 10% & can absorb 1 level, F reward = ($1000 * 10%) = $100
+E entitles 10% & can absorb 1 level, E reward = ($100 * 10%) = $10
+D entitles 20% & can absorb 2 levels, D reward = ($10 * 10%) + ($100 * 20%) = $21
+C entitles 30% & can absorb 3 levels, C reward = ($21 * 10%) + ($10 * 20%) + ($100 * 30%) = $34.1 
+B entitles 40% & can absorb 4 levels, B reward = ($34.1 * 10%) + ($21 * 20%) + ($10 * 30%) + ($100 * 40%) = $50.61
+A entitles 50% & can absorb 5 levels, A reward = ($50.61 * 10%) + ($34.1 * 20%) + ($21 * 30%) + ($10 * 40%) + ($100 * 50%) = $72.181
+
+total distribution = $287.891
+```
+
 
 ## 5) Tree
 - Same tree shared between crm and marketplace.
