@@ -58,16 +58,15 @@
 - Upline will not entitle if pass up roi bonus is from direct with biggest sales.
 
 ## 4) Leadership Bonus
-- ... writting ...
-- ... writting ...
-- ... 动态： 
-- ... 直推一个拿第一代 10%
-- ... 直推两个拿第二代 20%
-- ... 直推两个拿第三代 30%
-- ... 直推两个拿第四代 40%
-- ... 直推两个拿第五代 50%
-- ... writting ...
-- ... writting ...
+
+| Referred Users | Level | Percentage (%) |
+|---|---|---|
+| 1 | 1 | 10% |
+| 2 | 2 | 20% | 
+| 3 | 3 | 30% | 
+| 4 | 4 | 40% | 
+| 5 | 5 | 50% | 
+
 
 ## 5) Tree
 - Same tree shared between crm and marketplace.
