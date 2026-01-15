@@ -39,7 +39,7 @@
 - Example 2. no payout when user unstake nft at day 3.
 - Example 3. payout is 0.3% * 7 when user unstake nft at day 7 and round is ended.
 
-## 3) Group Bonus
+## 3) Matching ROI (Group Bonus)
 
 | Rank Name | Small Leg Sales | Percentage (%) |
 |---|---|---|
