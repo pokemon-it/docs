@@ -89,11 +89,11 @@ A (50%)
 
 G, LB = 0
 F entitles 10% with 1 level, LB = ($1000 * 10%) = $100
-E entitles 10% with 1 level, LB = (($1000 + $100) * 10%) = $110 
-D entitles 20% with 2 levels, LB = (($2000 + $110) * 10%) + ($100 * 20%) = $231 
-C entitles 30% with 3 levels, LB = ($231 * 10%) + ($110 * 20%) + ($100 * 30%) = $75.1 
-B entitles 40% with 4 levels, LB  = ($75.1 * 10%) + ($231 * 20%) + ($110 * 30%) + ($100 * 40%) = $126.71
-A entitles 50% with 5 levels, LB = ($126.71 * 10%) + ($75.1 * 20%) + ($231 * 30%) + ($110 * 40%) + ($100 * 50%) = $190.99
+E entitles 10% with 1 level, LB = ($1000 * 10%) = $100 
+D entitles 20% with 2 levels, LB = ($2000 * 10%) + ($100 * 20%) = $220 
+C entitles 30% with 3 levels, LB = ($220 * 10%) + ($100 * 20%) + ($100 * 30%) = $72
+B entitles 40% with 4 levels, LB  = ($72 * 10%) + ($220 * 20%) + ($100 * 30%) + ($100 * 40%) = $121.2
+A entitles 50% with 5 levels, LB = ($121.2 * 10%) + ($72 * 20%) + ($220 * 30%) + ($100 * 40%) + ($100 * 50%) = $182.52
 
 (MR) Matching ROI, (LB) Leadership Bonus
 ```
