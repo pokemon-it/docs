@@ -95,6 +95,7 @@ C entitles 30% with 3 levels, LB = ($231 * 10%) + ($110 * 20%) + ($100 * 30%) = 
 B entitles 40% with 4 levels, LB  = ($75.1 * 10%) + ($231 * 20%) + ($110 * 30%) + ($100 * 40%) = $126.71
 A entitles 50% with 5 levels, LB = ($126.71 * 10%) + ($75.1 * 20%) + ($231 * 30%) + ($110 * 40%) + ($100 * 50%) = $190.99
 
+(MR) Matching ROI, (LB) Leadership Bonus
 ```
 
 
