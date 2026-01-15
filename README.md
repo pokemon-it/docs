@@ -71,6 +71,7 @@
 | 9 | 5 | 50% | 
 
 - Active bonus.
+- L1 only matching MR * 10% while L2 onward only matching LB.
 - Calculation example.
 ```
 A (50%)
@@ -97,7 +98,6 @@ A entitles 50% with 5 levels, LB = ($121.2 * 10%) + ($72 * 20%) + ($220 * 30%) +
 
 (MR) Matching ROI, (LB) Leadership Bonus
 ```
-
 
 ## 5) Tree
 - Same tree shared between crm and marketplace.
