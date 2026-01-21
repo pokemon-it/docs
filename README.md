@@ -143,4 +143,10 @@ A entitles 50% with 5 levels, LB = (0) + ($50 * 20%) + ($220 * 30%) + ($100 * 40
   - after `first month purchase`, purchase is to maintain next month.
 - Group sales will maintain 6 months only, 7th month will flush first month, 8th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688 + 687 + 686 + 685.
 - A referred user is qualified only if he does maintain personal sales (minimum $100).
-   
+
+# Addresses
+
+| Address | Purpose |
+|--|--|
+| 0x71887b82DAFb18d56b39Df0c964070b0f71Cb2B1 | Pack's Marketing Beneficiary |
+| 0xbd20ed3D8CACE246DC213Ab0530943A8B778Ce62 | Pack's Sales Beneficiary | 
