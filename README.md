@@ -115,7 +115,11 @@ A entitles 50% with 5 levels, LB = (0) + ($50 * 20%) + ($220 * 30%) + ($100 * 40
 - After 1 hour, the reveal card still belong to platform until player update receive status only nft owner will switch to him.
 - Buy pack amount will stay in contract until admin claim it.
 - Ready admin a method to claim back redundant usdt from buypack contract.
-- Manipulation. Admin can mark specific card to prevent it from user purchase.
+- Manipulation.
+  - Admin can mark specific card to prevent it from user purchase.
+  - Admin must prefill company address. so contract will run manipulation if sender is from company address.
+  - Admin can set 3 types of manipulate behaviour for company address. a) follow normal randomization, b) can only win normal nft, c) can only win valued nft.
+  - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
 
 ## 2) Pack Bonus
 
