@@ -118,7 +118,7 @@ A entitles 50% with 5 levels, LB = (0) + ($50 * 20%) + ($220 * 30%) + ($100 * 40
 - Manipulation.
   - Admin can mark specific card to prevent it from purchase by normal user.
   - Admin must prefill company address. so contract will run manipulation if sender is from company address.
-  - Admin can set 3 types of manipulate behaviour for company address.
+  - Admin can set 2 types of manipulate behaviour for company address.
     - a) follow normal randomization (win normal nft).
     - b) can only win valued nft.
   - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
