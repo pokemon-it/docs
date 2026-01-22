@@ -133,9 +133,10 @@ A entitles 50% with 5 levels, LB = (0) + ($50 * 20%) + ($220 * 30%) + ($100 * 40
 | V10 | 30 | 1000 | 500K | 9|
 
 - Overriding bonus. Leftover amount will go to marketing beneficiary.
-- Max payout per pack order is 30%.
+- Buy back tax is 20%. e.g a pack's buy back amount is $50, after tax player will only receive $40.
+- Max payout is 30% of buy back tax. e.g if pack's buy back amount is $50, 30% of $10 or $3 will use to distribute this bonus.
 - Max depth is 30.
-- Bonus is distributed right away when user buy pack.
+- Bonus is distributed right away when user does buy back.
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Every month user need maintain personal sales
   - user will be qualified by 1st month and 2nd month for `first month purchase`.
