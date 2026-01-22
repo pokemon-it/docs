@@ -116,7 +116,7 @@ A entitles 50% with 5 levels, LB = (0) + ($50 * 20%) + ($220 * 30%) + ($100 * 40
 - Buy pack amount will stay in contract until admin claim it.
 - Ready admin a method to claim back redundant usdt from buypack contract.
 - Manipulation.
-  - Admin can mark specific card to prevent it from user purchase.
+  - Admin can mark specific card to prevent it from purchase by normal user.
   - Admin must prefill company address. so contract will run manipulation if sender is from company address.
   - Admin can set 3 types of manipulate behaviour for company address.
     - a) follow normal randomization.
