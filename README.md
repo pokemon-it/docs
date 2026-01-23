@@ -50,6 +50,16 @@
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Both group sales and personal sales will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
 
+## Buy Back
+- Buy back amount is default 20% of card value, 10-30% adjustable timely.
+- Buy back value (BBV) = card value - 20%.
+- COST = pack amount.
+- When buy back:
+  - Receive USDT if BBV > COST
+  - Receive USDT or TCG if BBV <= COST
+- Max profit (USDT) of TCG claim is 120% of COST.
+
+
 
 # Addresses
 
@@ -57,7 +67,6 @@
 |--|--|
 | 0x71887b82DAFb18d56b39Df0c964070b0f71Cb2B1 | Pack's Marketing Beneficiary |
 | 0xbd20ed3D8CACE246DC213Ab0530943A8B778Ce62 | Pack's Sales Beneficiary | 
-
 
 # Pokedao (CRM)
 
