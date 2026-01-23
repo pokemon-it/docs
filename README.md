@@ -18,23 +18,34 @@
 
 ## 2) Pack Bonus
 
-| Rank Name | % | Personal Sales | Group Sales | Referred users  |
-|--|--|--|--|--|
-| V1 | 4 | 100 | 0 |3|
-| V2 | 8 | 100 | 0 |6|
-| V3 | 12 | 100 | 0 |9|
-| V4 | 16 | 300 | 10K|9|
-| V5 | 20 | 300 | 30K |9|
-| V6 | 22 | 300 | 60K |9|
-| V7 | 24 | 400 | 100K | 9|
-| V8 | 26 | 400 | 150K| 9|
-| V9 | 28 | 500 | 300K | 9|
-| V10 | 30 | 1000 | 500K | 9|
+| Rank Name | % | Personal Sales | Group Sales |
+|--|--|--|--|
+| P1 | 20 | 100 | 1,000 |
+| P2 | 30 | 200 | 10,000 |
+| P3 | 40 | 300 | 100,000 |
+| P4 | 50 | 500 | 1,000,000 
+| P5 | 60 | 1,000 | 5,000,000 |
+| P6 | 70 | 3,000 | 20,000,000 |
+| P7 | 75 | 5,000 | 100,000,000 | 
+| P8 | 80 | 10,000 | 300,000,000 | 
 
-- Overriding bonus. Leftover amount will go to marketing beneficiary.
-- Buy back tax is 20%. e.g a pack's buy back amount is $50, after tax player will only receive $40.
-- Max payout is 30% of buy back tax. e.g if pack's buy back amount is $50, 30% of $10 or $3 will use to distribute this bonus.
 - Max depth is 30.
+- Overriding bonus. Leftover amount will go to marketing beneficiary.
+- `Buy Back Tax` is `20%`. e.g a pack's buy back amount is $50, after tax player will only receive $40.
+- Buy Back Tax allocation.
+
+| % | Usage |
+|--|--|
+| 20 | Platform fees |
+| 80 | Bonus |
+   
+- Bonus allocation.
+
+| % | Usage |
+|--|--|
+| 70 | Actual receive |
+| 30 | Add LP |
+
 - Bonus is distributed right away when user does buy back.
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Every month user need maintain personal sales
