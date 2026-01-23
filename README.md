@@ -50,7 +50,7 @@
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Both group sales and personal sales will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
 
-## Buy Back
+## 3) Buy Back
 - Buy back rate (BBR) is 20% (default) of card value, 10-30% adjustable timely.
 - Buy back value (BBV) = card value - BBR.
 - COST = pack amount.
