@@ -55,8 +55,8 @@
 - Buy back value (BBV) = card value - 20%.
 - COST = pack amount.
 - When buy back:
-  - Receive USDT if BBV > COST
-  - Receive USDT or TCG if BBV <= COST
+  - Receive USDT if BBV > COST (User Win)
+  - Receive USDT or TCG if BBV <= COST (User Lose)
 - Max profit (USDT) of TCG claim is 120% of COST.
 
 
