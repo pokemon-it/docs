@@ -32,7 +32,7 @@
 - Max depth is 30.
 - Overriding bonus. Leftover amount will go to marketing beneficiary.
 - `Buy Back Tax` is `20%`. e.g a pack's buy back amount is $50, after tax player will only receive $40.
-- Buy Back Tax allocation.
+- Buy-back-tax allocation.
 
 | % | Usage |
 |--|--|
@@ -43,17 +43,13 @@
 
 | % | Usage |
 |--|--|
-| 70 | Actual receive |
+| 70 | User's actual receive |
 | 30 | Add LP |
 
 - Bonus is distributed right away when user does buy back.
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
-- Every month user need maintain personal sales
-  - user will be qualified by 1st month and 2nd month for `first month purchase`.
-  - 3rd month is qualified only if user purchase at 2nd month, else 3rd amonth will always be disqualified.
-  - after `first month purchase`, purchase is to maintain next month.
-- Group sales will maintain 6 months only, 7th month will flush first month, 8th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688 + 687 + 686 + 685.
-- A referred user is qualified only if he does maintain personal sales (minimum $100).
+- Both group sales and personal sales will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
+
 
 # Addresses
 
