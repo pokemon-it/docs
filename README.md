@@ -15,8 +15,7 @@
     - a) follow normal randomization (win normal nft).
     - b) can only win valued nft.
   - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
- 
-- Capital Protection Mechanism (Daily Limit)
+- `Capital Protection Mechanism (Daily Limit)`
   - Each wallet address is protected for the first 30 pack openings per day.
   - Example:
     - 30 packs × 10 USD = 300 USD total cost
