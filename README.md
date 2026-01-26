@@ -16,7 +16,19 @@
     - b) can only win valued nft.
   - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
 
-## 2) Pack Bonus
+## 2) Buy Back
+- `Buy back rate (BBR)` is 20% (default) of card value, 10-30% adjustable timely and all nft cards will be affected once change.
+- `Buy back value (BBV)` = card value - BBR.
+- COST = pack amount.
+- `Buy Back Tax (BBT)` is `20%`. e.g a pack's buy back amount is $50, after tax player will only receive $40.
+- BBT allocation.
+
+| % | Usage |
+|--|--|
+| 20 | Platform fees |
+| 80 | Bonus |
+
+## 3) Pack Bonus
 
 | Rank Name | % | Personal Sales | Group Sales |
 |--|--|--|--|
@@ -31,14 +43,7 @@
 
 - Max depth is 30.
 - Overriding bonus. Leftover amount will go to marketing beneficiary.
-- `Buy Back Tax` is `20%`. e.g a pack's buy back amount is $50, after tax player will only receive $40.
-- Buy-back-tax allocation.
-
-| % | Usage |
-|--|--|
-| 20 | Platform fees |
-| 80 | Bonus |
-   
+- Bonus calculated from bonus portion of `Buy Back Tax`.
 - Bonus allocation.
 
 | % | Usage |
@@ -50,10 +55,7 @@
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Both group sales and personal sales will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
 
-## 3) Buy Back
-- Buy back rate (BBR) is 20% (default) of card value, 10-30% adjustable timely and all nft cards will be affected once change.
-- Buy back value (BBV) = card value - BBR.
-- COST = pack amount.
+
 
 
 
