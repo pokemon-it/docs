@@ -51,13 +51,10 @@
 - Both group sales and personal sales will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
 
 ## 3) Buy Back
-- Buy back rate (BBR) is 20% (default) of card value, 10-30% adjustable timely.
+- Buy back rate (BBR) is 20% (default) of card value, 10-30% adjustable timely and all nft cards will be affected.
 - Buy back value (BBV) = card value - BBR.
 - COST = pack amount.
-- When buy back:
-  - Receive USDT if BBV > COST (User Win)
-  - Receive USDT or TCG if BBV <= COST (User Lose)
-- Max profit (USDT) of TCG claim is 120% of COST.
+
 
 
 
