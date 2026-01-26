@@ -44,7 +44,7 @@
 | % | Usage |
 |--|--|
 | 70 | User's actual receive |
-| 30 | Add LP |
+| 30 | Platform Fees |
 
 - Bonus is distributed right away when user does buy back.
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
