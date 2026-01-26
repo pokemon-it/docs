@@ -15,6 +15,14 @@
     - a) follow normal randomization (win normal nft).
     - b) can only win valued nft.
   - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
+ 
+- Capital Protection Mechanism (Daily Limit)
+  - Each wallet address is protected for the first 30 pack openings per day.
+  - Example:
+    - 30 packs × 10 USD = 300 USD total cost
+    - If the total card value after 30 openings is 200 USD,
+    - the platform compensates with 10 additional 10 USD packs.
+    - Compensated packs is not real sales, do not generate turnover or volume.
 
 ## 2) Buy Back
 - `Buy back rate (BBR)` is 20% (default) of card value, 10-30% adjustable timely and all nft cards will be affected once change.
