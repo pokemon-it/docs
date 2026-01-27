@@ -4,8 +4,8 @@
 - Admin insert unrevealed card into each pool. e.g 1000 cards in basic pool, 1000 cards in pro & 1000 cards in master
 - Player buy a pack then contract will randomly choose 1 card from targetted pool. Odd change accordingly.
 - In anytime admin can add new unrevealed card to pool. Odd change accordingly.
-- Player can trigger buy back and receive buy back amount within 1 hour. Buy back card will fallback to pool again.
-- After 1 hour, the reveal card still belong to platform until player update receive status only nft owner will switch to him.
+- Player can trigger buy back and receive buy back amount within 30 min. Buy back card will fallback to pool again.
+- After 30 min, the reveal card still belong to platform until player update receive status only nft owner will switch to him.
 - Buy pack amount will stay in contract until admin claim it.
 - Ready admin a method to claim back redundant usdt from buypack contract.
 - Manipulation.
@@ -61,13 +61,6 @@
 - Bonus is distributed right away when user does buy back.
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Both `group sales` and `personal sales` will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
-
-
-
-
-
-
-
 
 # Addresses
 
