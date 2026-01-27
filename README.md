@@ -50,7 +50,7 @@
 
 - Max depth is 30.
 - Overriding bonus. Leftover amount will go to marketing beneficiary.
-- Bonus distributed from bonus portion of `Buy Back Tax`.
+- Bonus is distributed from bonus portion of `Buy Back Tax`.
 - Bonus allocation.
 
 | % | Usage |
