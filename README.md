@@ -32,7 +32,7 @@
 
 | % | Usage |
 |--|--|
-| 20 | Platform fees |
+| 20 | Platform fees (Nodes) |
 | 80 | Bonus |
 
 ## 3) Pack Bonus
