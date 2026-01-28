@@ -47,7 +47,7 @@
 | P6 | 70 | 3,000 | 20,000,000 |
 | P7 | 75 | 5,000 | 100,000,000 | 
 | P8 | 80 | 10,000 | 300,000,000 | 
-
+- This bonus percentage will time against TAX amount.
 - Max depth is 30.
 - Overriding bonus. Leftover amount will go to marketing beneficiary.
 - Bonus is distributed from bonus portion of `Buy Back Tax`.
