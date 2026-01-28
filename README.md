@@ -66,7 +66,7 @@
 
 | Token | In | Out | 
 |--|--|--|
-| USDT | User's Wallet | Buy Pack
+| USDT | | Buy Pack
 | X Token | Buy Back, Bonus | Buy Pack |
 | $10 Pack Ticket | Capital Protection Triggered | Buy $10 Pack |
 
