@@ -62,6 +62,14 @@
 - Month is maintained by `monthIndex`. e.g 682 (monthIndex) is from 8/12/2025 to 7/1/2026 while 683 is from 7/1/2025 to 7/1/2026 + 30D.
 - Both `group sales` and `personal sales` will maintain for 3 months only, 4th month will flush 1st month, 5th month will flush 2nd month. e.g let say current monthIndex is 690, my group sales is accm of monthIndex 690 + 689 + 688.
 
+## 4) Currencies
+
+| Token | In | Out | 
+|--|--|--|
+| USDT | User's Wallet | Buy Pack
+| X Token | Buy Back, Bonus | Buy Pack |
+| $10 Pack Ticket | Capital Protection Triggered | Buy $10 Pack |
+
 # Addresses
 
 | Address | Purpose |
