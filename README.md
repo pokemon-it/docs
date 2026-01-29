@@ -68,8 +68,10 @@
 | Token | In | Out | 
 |--|--|--|
 | USDT | Swap From X-Token | Buy Pack
-| X-Token | Buy Back, Bonus | Buy Pack, Swap To USDT |
+| xToken | Buy Back, Bonus | Buy Pack, Swap To USDT |
 | $10 Pack Ticket | Capital Protection Triggered | Buy $10 Pack |
+
+- 1 xToken = 1 USDT, xToken is mirror token of USDT.
 
 # Live Addresses
 
