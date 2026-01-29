@@ -70,10 +70,15 @@
 | X-Token | Buy Back, Bonus | Buy Pack, Swap To USDT |
 | $10 Pack Ticket | Capital Protection Triggered | Buy $10 Pack |
 
-# Addresses
+# Live Addresses
 
 | Address | Purpose |
 |--|--|
+| 0x498d3e29e3df158f541d9eaa0dc01d182380ff59 | Pack Contract |
+| 0xa9f4e0aa5b8f3b2d6f0ade5198988e2e50cc3cce | Bonus Contract |
+| 0xae811338e6b4993c95b0ac43431339428f185aa4 | Referral Contract |
+| 0x97f1299b61c1d0ad20f7d6287003a471ad411b5f | NFT Contract |
+| ?? | MarketPlace Contract |
 | 0x71887b82DAFb18d56b39Df0c964070b0f71Cb2B1 | Pack's Marketing Beneficiary |
 | 0xbd20ed3D8CACE246DC213Ab0530943A8B778Ce62 | Pack's Sales Beneficiary | 
 
