@@ -25,8 +25,9 @@
   - A user can own different ticket wallets for different pool.
 
 ## 2) Buy Back
-- `Buy back rate (BBR)` is 20% (default) of card value, 10-30% adjustable timely and all nft cards will be affected once change.
-- `Buy back value (BBV)` = card value - BBR.
+- `Buy Back Rate (BBR)` is 20% (default) of card value, 10-30% adjustable timely and all nft cards will be affected once change.
+- `Buy Back Value (BBV)` = card value - BBR.
+- `Actual Buy Back Value` = BBV - BB TAX
 - COST = pack amount.
 - `Buy Back Tax (BBT)` is `20%`. e.g a pack's buy back amount is $50, after tax player will only receive $40.
 - BBT allocation.
