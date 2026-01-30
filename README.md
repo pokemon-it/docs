@@ -67,7 +67,7 @@
 
 | Token | In | Out | 
 |--|--|--|
-| USDT | Swap From X-Token | Buy Pack
+| USDT | Swap From xToken | Swap To xToken |
 | xToken | Buy Back, Bonus | Buy Pack, Swap To USDT |
 | $10 Pack Ticket | Capital Protection Triggered | Buy $10 Pack |
 
