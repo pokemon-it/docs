@@ -84,8 +84,8 @@
 | 0xae811338e6b4993c95b0ac43431339428f185aa4 | Referral Contract |
 | 0x97f1299b61c1d0ad20f7d6287003a471ad411b5f | NFT Contract |
 | ?? | Marketplace Contract |
-| 0x71887b82DAFb18d56b39Df0c964070b0f71Cb2B1 | Pack's Marketing Beneficiary |
-| 0xbd20ed3D8CACE246DC213Ab0530943A8B778Ce62 | Pack's Sales Beneficiary | 
+| 0x71887b82DAFb18d56b39Df0c964070b0f71Cb2B1 | Pack Marketing Beneficiary |
+| 0xbd20ed3D8CACE246DC213Ab0530943A8B778Ce62 | USDT Collector | 
 
 # Pokedao (CRM)
 
