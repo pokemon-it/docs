@@ -68,11 +68,11 @@
 
 | Token | In | Out | 
 |--|--|--|
-| USDT | Swap From xToken | Swap To xToken |
-| xToken | Buy Back, Bonus | Buy Pack, Swap To USDT |
+| USDT | Swap From VUSDT | Swap To VUSDT |
+| VUSDT | Buy Back, Bonus | Buy Pack, Swap To USDT |
 | Pool Ticket | Capital Protection Triggered | Buy Pack |
 
-- 1 xToken = 1 USDT, xToken is mirror token of USDT.
+- 1 VUSDT = 1 USDT, VUSDT is mirror token of USDT.
 - A user can own different ticket wallets for different pool.
 
 # Live Addresses
