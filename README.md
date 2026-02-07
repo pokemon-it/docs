@@ -75,6 +75,12 @@
 - 1 VUSDT = 1 USDT, VUSDT is mirror token of USDT.
 - A user can own different ticket wallets for different pool.
 
+## 5) Phase 2 Todo
+- When deposit, USDT > Atoken > VUSDT
+- When withdaw, VUSDT > Atoken > USDT
+- Rotate multiple Atoken collector (previously known as USDT collector).
+
+
 # Live Addresses
 
 | Address | Purpose |
