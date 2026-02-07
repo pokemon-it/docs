@@ -79,6 +79,7 @@
 - When deposit, USDT > Atoken > VUSDT
 - When withdaw, VUSDT > Atoken > USDT
 - Rotate multiple Atoken collector (previously known as USDT collector).
+- Atoken docs: (https://github.com/aave-dao/aave-v3-origin/blob/main/src/contracts/protocol/tokenization/AToken.sol) (https://aave.com/docs/aave-v3/smart-contracts/tokenization)
 
 
 # Live Addresses
