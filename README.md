@@ -21,7 +21,7 @@
     - 30 packs × 10 USD = 300 USD total cost
     - If the total card value after 30 openings is 200 USD,
     - the platform compensates with 10 additional 10 USD packs.
-    - Compensated packs is not real sales, do not generate turnover or volume.
+    - Compensated packs is not real sales, do not generate turnover or volume thus no bonus distributed.
   - A user can own different ticket wallets for different pool.
 
 ## 2) Buy Back
