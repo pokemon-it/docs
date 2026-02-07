@@ -78,8 +78,9 @@
 ## 5) Phase 2 Todo
 - When deposit, USDT > Atoken > VUSDT
 - When withdaw, VUSDT > Atoken > USDT
+- Atoken docs: https://aave.com/docs/aave-v3/smart-contracts/tokenization.
 - Rotate multiple Atoken collector (previously known as USDT collector).
-- Atoken docs: https://aave.com/docs/aave-v3/smart-contracts/tokenization
+- The 30times activate can set to 10times activate. And daily maximum 30 times.
 
 # Live Addresses
 
