@@ -86,6 +86,7 @@
 
 | Address | Purpose |
 |--|--|
+| 0x53Adec8A46231e8FF4a52428076e26AD2c445Df5 | VUSDT |
 | 0x498d3e29e3df158f541d9eaa0dc01d182380ff59 | Pack Contract |
 | 0xa9f4e0aa5b8f3b2d6f0ade5198988e2e50cc3cce | Bonus Contract |
 | 0xae811338e6b4993c95b0ac43431339428f185aa4 | Referral Contract |
