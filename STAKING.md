@@ -55,24 +55,24 @@
 - User stakes **100U** and directly refers **10 users staking 100U** → unlocks **20**
     **generations**.
 - If **1st generation user stake = 1000U** :
-    o Reward = **1000 × 16% × 50% = 80U**
+    o Reward = **1000 × 4% × 50% = 20U**
 - If **2nd–20th generations user stake = 1000U** :
     o Calculated only on **100U cap**
-    o Reward = **100 × 16% × 5% = 8U per generation**
+    o Reward = **100 × 4% × 5% = 0.2U per generation**
 
 ## 3. Active Income — Global Bonus Pool
 
 **Global bonus distribution tiers:**
 
-- VIP1 → **30% pool share** → Requirement: **2 Community 50 000U**
-- VIP2 → **10%** → Requires **2 Community VIP**
-- VIP3 → **10%** → Requires **2 Community VIP**
-- VIP4 → **10%** → Requires **2 Community VIP**
-- VIP5 → **10%** → Requires **2 Community VIP**
-- VIP6 → **10%** → Requires **2 Community VIP**
-- VIP7 → **10%** → Requires **2 Community VIP**
-- VIP8 → **5%** → Requires **2 Community VIP**
-- VIP9 → **5%** → Requires **2 Community VIP**
+- VIP1 → **30% pool share** → Requirement: **2 Community 50,000U**
+- VIP2 → **10%** → Requires **2 Community VIP1**
+- VIP3 → **10%** → Requires **2 Community VIP2**
+- VIP4 → **10%** → Requires **2 Community VIP3**
+- VIP5 → **10%** → Requires **2 Community VIP4**
+- VIP6 → **10%** → Requires **2 Community VIP5**
+- VIP7 → **10%** → Requires **2 Community VIP6**
+- VIP8 → **5%** → Requires **2 Community VIP7**
+- VIP9 → **5%** → Requires **2 Community VIP8**
 
 **Pool Source:**
 
