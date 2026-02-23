@@ -23,9 +23,7 @@
     in order to increase static yield.
 - Each additional qualified referral increases **+1% weekly yield**.
 - The **incremental weekly yield (1%–10%) is treated as active income**
-- Active income distribution:
-    o **70% in VUSDT**
-    o **30% in Blind Box Tickets ($10 ticket pool applied)** 
+- Active income distribution: **a) 70% in VUSDT**, **b) 30% in Blind Box Tickets ($10 ticket pool applied)** 
 
 ## 2. Active Income — Generation Bonus
 
