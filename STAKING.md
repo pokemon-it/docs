@@ -44,11 +44,11 @@
 - Each **1 direct referral unlocks 2 generations**.
 - Direct referrals must stake **equal or higher amount** to unlock generations.
 - **1st generation:**
-    o Receives **50%** of the generation’s staking yield.
-    o Allowed to earn from **larger stake**.
+    - Receives **50%** of the generation’s staking yield.
+    - Allowed to earn from **larger stake**.
 - **2nd–20th generations:**
-    o Receive **5%** each of the generation’s staking yield.
-    o Settlement limited to **same staking amount only**.
+    - Receive **5%** each of the generation’s staking yield.
+    - Settlement limited to **same staking amount only**.
 
 **Example:**
 
