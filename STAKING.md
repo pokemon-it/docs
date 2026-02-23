@@ -17,14 +17,15 @@
 - 10 referrals → **14% / week** (56% / month)
 
 **Rules:**
-
+- Passive income yield is **4%**.
+- Passive income distribution: **100% VUSDT**
 - Direct referrals must stake an **amount equal to or greater than the user’s own stake**
     in order to increase static yield.
 - Each additional qualified referral increases **+1% weekly yield**.
-- The **incremental weekly yield (1%–14%) is treated as active income**
+- The **incremental weekly yield (1%–10%) is treated as active income**
 - Active income distribution:
-    o **70% in USDT**
-    o **30% in Blind Box Tickets**
+    o **70% in VUSDT**
+    o **30% in Blind Box Tickets ($10 ticket pool applied)** 
 
 ## 2. Active Income — Generation Bonus
 
@@ -43,7 +44,7 @@
 
 
 **Rules:**
-
+- Based on **passive income**.
 - Each **1 direct referral unlocks 2 generations**.
 - Direct referrals must stake **equal or higher amount** to unlock generations.
 - **1st generation:**
@@ -79,14 +80,14 @@
 
 **Pool Source:**
 
-- Derived from **total platform 16% staking rewards**.
+- Derived from **total platform 4% staking rewards (passive income)**.
 - Assessment depth limited to **30 generations**.
 
 **Example:**
 
 - Total platform stake = **1,000,000U**
-- Staking reward = **1,000,000 × 16% = 160,000U**
-- VIP1 pool = **160,000 × 30% = 48,000U**
+- Staking reward = **1,000,000 × 4% = 40,000U**
+- VIP1 pool = **40,000 × 30% = 12,000U**
 
 
 Users meeting **2 Community 50,000U requirement** can enter VIP1 pool and receive
@@ -97,7 +98,7 @@ Users meeting **2 Community 50,000U requirement** can enter VIP1 pool and receiv
 All **Active Income** are distributed as:
 
 - **70% USDT**
-- **30% Blind Box Tickets**
+- **30% Blind Box Tickets ($10 Pool Ticket Applied)**
 
 ## 5. All Reward Calculation & Claim
 
