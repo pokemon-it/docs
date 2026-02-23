@@ -82,7 +82,7 @@
 **Example:**
 
 - Total platform stake = **1,000,000U**
-- Staking reward = **1,000,000 × 4% = 40,000U**
+- Staking reward = **1,000,000 × 4% = 40,000U (Make it manipulatable)** 
 - VIP1 pool = **40,000 × 30% = 12,000U**
 
 
