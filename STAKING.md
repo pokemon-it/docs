@@ -18,12 +18,10 @@
 
 **Rules:**
 - Passive income yield is **4%**.
-- Passive income distribution: **100% VUSDT**
 - Direct referrals must stake an **amount equal to or greater than the user’s own stake**
     in order to increase static yield.
 - Each additional qualified referral increases **+1% weekly yield**.
 - The **incremental weekly yield (1%–10%) is treated as active income**
-- Active income distribution: **a) 70% in VUSDT**, **b) 30% in Blind Box Tickets ($10 ticket pool applied)** 
 
 ## 2. Active Income — Generation Bonus
 
@@ -91,12 +89,14 @@
 Users meeting **2 Community 50,000U requirement** can enter VIP1 pool and receive
 **weighted global dividend based on own team performance**.
 
-## 4. Active Income Distribution Structure
+## 4. Income Distribution Structure
 
 All **Active Income** are distributed as:
-
 - **70% USDT**
 - **30% Blind Box Tickets ($10 Pool Ticket Applied)**
+
+All **Passive Income** are distributed as:
+- **100% VUSDT**
 
 ## 5. All Reward Calculation & Claim
 
