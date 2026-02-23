@@ -40,7 +40,7 @@
 
 
 **Rules:**
-- Based on **passive income**.
+- Derived from **passive income**.
 - Each **1 direct referral unlocks 2 generations**.
 - Direct referrals must stake **equal or higher amount** to unlock generations.
 - **1st generation:**
