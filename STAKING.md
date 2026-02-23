@@ -92,7 +92,7 @@ Users meeting **2 Community 50,000U requirement** can enter VIP1 pool and receiv
 ## 4. Income Distribution Structure
 
 All **Active Income** are distributed as:
-- **70% USDT**
+- **70% VUSDT**
 - **30% Blind Box Tickets ($10 Pool Ticket Applied)**
 
 All **Passive Income** are distributed as:
