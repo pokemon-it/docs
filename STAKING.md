@@ -55,10 +55,10 @@
 - User stakes **100U** and directly refers **10 users staking 100U** → unlocks **20**
     **generations**.
 - If **1st generation user stake = 1000U** :
-    o Reward = **1000 × 4% × 50% = 20U**
+    - Reward = **1000 × 4% × 50% = 20U**
 - If **2nd–20th generations user stake = 1000U** :
-    o Calculated only on **100U cap**
-    o Reward = **100 × 4% × 5% = 0.2U per generation**
+    - Calculated only on **100U cap**
+      Reward = **100 × 4% × 5% = 0.2U per generation**
 
 ## 3. Active Income — Global Bonus Pool
 
