@@ -16,11 +16,11 @@
     - b) can only win valued nft.
   - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
 - `Capital Protection Mechanism (Daily Limit)`
-  - Each wallet address is protected for the first 30 pack openings per day.
+  - Each wallet address is protected for 3 times of first 10 packs openings per day.
   - Example below is for $10 pack:
-    - 30 packs × 10 USD = 300 USD total cost
-    - If the total card value after 30 openings is 200 USD,
-    - the platform compensates with 10 additional 10 USD packs.
+    - 10 packs × 10 USD = $100 cost
+    - If the total card value after 10 openings is $80,
+    - the platform compensates 2 additional 10 USD packs.
     - Compensated packs is not real sales, do not generate turnover or volume thus no bonus distributed.
   - A user can own different ticket wallets for different pool.
 
@@ -80,7 +80,7 @@
 - Rotate multiple Atoken collector (previously known as USDT collector).
 - The 30times activate can set to 10times activate. And daily maximum 30 times.
 
-# Live Addresses
+## 6) Live Addresses
 
 | Address | Purpose |
 |--|--|
