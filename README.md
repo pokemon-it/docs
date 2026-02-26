@@ -16,10 +16,11 @@
     - b) can only win valued nft.
   - e.g if there are 3 valued nfts in the pool, and company address is set with `only win valued nft`, then either 1 of 3 valued nfts will open when company buy pack.
 - `Capital Protection Mechanism (Daily Limit)`
-  - Each wallet address is protected for 3 times of first 10 packs openings per day.
+  - First 10 packs openings per round.
+  - Trigger 3 rounds per day per user.
   - Example below is for $10 pack:
     - 10 packs × 10 USD = $100 cost
-    - If the total card value after 10 openings is $80,
+    - If the total buy back value after 10 openings is $80,
     - the platform compensates 2 additional 10 USD packs.
     - Compensated packs is not real sales, do not generate turnover or volume thus no bonus distributed.
   - A user can own different ticket wallets for different pool.
@@ -78,7 +79,6 @@
 - When withdaw, VUSDT > Atoken > USDT
 - Atoken docs: https://aave.com/docs/aave-v3/smart-contracts/tokenization.
 - Rotate multiple Atoken collector (previously known as USDT collector).
-- The 30times activate can set to 10times activate. And daily maximum 30 times.
 
 ## 6) Live Addresses
 
