@@ -4,30 +4,29 @@
 
 **Weekly Staking Yield based on number of direct referrals:**
 
-- 0 referrals → **4% / week** (16% / month)
-- 1 referral → **5% / week** (20% / month)
-- 2 referrals → **6% / week** (24% / month)
-- 3 referrals → **7% / week** (28% / month)
-- 4 referrals → **8% / week** (32% / month)
-- 5 referrals → **9% / week** (36% / month)
-- 6 referrals → **10% / week** (40% / month)
-- 7 referrals → **11% / week** (44% / month)
-- 8 referrals → **12% / week** (48% / month)
-- 9 referrals → **13% / week** (52% / month)
-- 10 referrals → **14% / week** (56% / month)
+- 0 referrals → **4% / week** 
+- 1 referral → **5% / week** 
+- 2 referrals → **6% / week**
+- 3 referrals → **7% / week**
+- 4 referrals → **8% / week**
+- 5 referrals → **9% / week**
+- 6 referrals → **10% / week**
+- 7 referrals → **11% / week**
+- 8 referrals → **12% / week**
+- 9 referrals → **13% / week**
+- 10 referrals → **14% / week**
 
 **Rules:**
 - Passive income yield is **4%**.
-- Direct referrals must stake an **amount equal to or greater than the user’s own stake**
-    in order to increase static yield.
+- Direct referrals must stake an **amount equal to or greater than the user’s own stake** in order to increase static yield.
 - Each additional qualified referral increases **+1% weekly yield**.
 - The **incremental weekly yield (1%–10%) is treated as active income**
-- every 7 days pending roi will consolidate as confirmed roi, before 7 days.
-- Pending roi forfeited if user unstake early.
+- Every 7 days pending roi will consolidate as confirmed roi.
+- Pending roi will forfeit if user unstake early.
 - Pending roi is calculated every block.
 
 **Implementation:**
-- User always has one staking order from multiple stake.
+- User always has one staking order even multiple stake is made (more easy to work with max cap).
 - Pending roi will consume max-cap-quota.
 - Unstake early will remove pending roi from max-cap-quota.
 
