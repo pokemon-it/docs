@@ -22,6 +22,13 @@
     in order to increase static yield.
 - Each additional qualified referral increases **+1% weekly yield**.
 - The **incremental weekly yield (1%–10%) is treated as active income**
+- every 7 days pending roi will consolidate as confirmed roi, before 7 days.
+- Pending roi forfeited if user unstake early.
+
+**Implementation:**
+- User always has one staking order from multiple stake.
+- Pending roi will consume max-cap-quota.
+- Unstake early will remove pending roi from max-cap-quota.
 
 ## 2. Active Income — Generation Bonus
 
