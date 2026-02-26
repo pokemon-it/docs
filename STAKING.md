@@ -24,6 +24,7 @@
 - The **incremental weekly yield (1%–10%) is treated as active income**
 - every 7 days pending roi will consolidate as confirmed roi, before 7 days.
 - Pending roi forfeited if user unstake early.
+- Pending roi is calculated every block.
 
 **Implementation:**
 - User always has one staking order from multiple stake.
@@ -92,7 +93,6 @@
 - Staking reward = **1,000,000 × 4% = 40,000U (Make it manipulatable)** 
 - VIP1 pool = **40,000 × 30% = 12,000U**
 
-
 Users meeting **2 Community 50,000U requirement** can enter VIP1 pool and receive
 **weighted global dividend based on own team performance**.
 
@@ -105,18 +105,13 @@ All **Active Income** are distributed as:
 All **Passive Income** are distributed as:
 - **100% VUSDT**
 
-## 5. All Reward Calculation & Claim
+## 5. Exit Rule (3× Cap)
 
-- Rewards are **calculated every minute**.
-- Rewards can be **claimed once every 7 days**.
-
-## 6. Exit Rule (3× Cap)
-
-- Total **Staking + Active rewards capped at 3×** of staking amount.
+- Total **Staking + Active rewards capped at 3×** of staking amount. Reward after hit max cap will flush.
 - After reaching **3×** , user must **re-stake** to continue earning.
 - Exited stake **no longer generates staking rewards**.
 
-## 7. Unstaking & Redemption Rules
+## 6. Unstaking & Redemption Rules
 
 **Early unstaking fee: (Principal+Interest)**
 
