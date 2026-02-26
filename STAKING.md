@@ -24,8 +24,6 @@
 - Every 7 days pending roi will consolidate as confirmed roi.
 - Pending roi will forfeit if user unstake early.
 - Pending roi is calculated every block.
-
-**Implementation:**
 - User always has one staking order even multiple stake is made (more easy to work with max cap).
 - Pending roi will consume max-cap-quota.
 - Unstake early will remove pending roi from max-cap-quota.
