@@ -68,19 +68,20 @@
     - Calculated only on **100U cap**
       Reward = **100 × 4% × 5% = 0.2U per generation**
 
-## 3. Active Income — Global Bonus Pool
+## 3. Active Income — Community Bonus
 
 **Global bonus distribution tiers:**
 
-- VIP1 → **30% pool share** → Requirement: **2 Community 50,000U**
-- VIP2 → **10%** → Requires **2 Community VIP1**
-- VIP3 → **10%** → Requires **2 Community VIP2**
-- VIP4 → **10%** → Requires **2 Community VIP3**
-- VIP5 → **10%** → Requires **2 Community VIP4**
-- VIP6 → **10%** → Requires **2 Community VIP5**
-- VIP7 → **10%** → Requires **2 Community VIP6**
-- VIP8 → **5%** → Requires **2 Community VIP7**
-- VIP9 → **5%** → Requires **2 Community VIP8**
+- P1 → **10% pool share** → Requirement: **Small Zone 10,000**
+- P2 → **20%** → Requires **50,000**
+- P3 → **30%** → Requires **100,000**
+- P4 → **40%** → Requires **300,000**
+- P5 → **50%** → Requires **500,000**
+- P6 → **60%** → Requires **1,000,000**
+- P7 → **70%** → Requires **3,000,000**
+- P8 → **80%** → Requires **5,000,000**
+- P9 → **90%** → Requires **10,000,000**
+- P10 → **100%** → Requires **30,000,000**
 
 **Pool Source:**
 
