@@ -70,7 +70,7 @@
 
 ## 3. Active Income — Community Bonus
 
-**Global bonus distribution tiers:**
+**Community bonus distribution tiers:**
 
 - P1 → **10% pool share** → Requirement: **Small Zone 10,000**
 - P2 → **20%** → Requires **50,000**
@@ -85,17 +85,10 @@
 
 **Pool Source:**
 
-- Derived from **total platform 4% staking rewards (passive income)**.
+- Derived from **passive roi income (4%)**.
+- Triggered when user claim.
 - Assessment depth limited to **30 generations**.
 
-**Example:**
-
-- Total platform stake = **1,000,000U**
-- Staking reward = **1,000,000 × 4% = 40,000U (Make it manipulatable)** 
-- VIP1 pool = **40,000 × 30% = 12,000U**
-
-Users meeting **2 Community 50,000U requirement** can enter VIP1 pool and receive
-**weighted global dividend based on own team performance**.
 
 ## 4. Income Distribution Structure
 
