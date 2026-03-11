@@ -72,7 +72,7 @@
 
 **Community bonus distribution tiers:**
 
-- P1 → **10% pool share** → Requirement: **Small Zone 10,000**
+- P1 → **10% pool share** → **Small zone requires 10,000**
 - P2 → **20%** → Requires **50,000**
 - P3 → **30%** → Requires **100,000**
 - P4 → **40%** → Requires **300,000**
