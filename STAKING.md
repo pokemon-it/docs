@@ -55,7 +55,7 @@
     - Receives **50%** of the generation’s staking yield.
     - Allowed to earn from **larger stake**.
 - **2nd–20th generations:**
-    - Receive **5%** each of the generation’s staking yield.
+    - Receive **3%** each of the generation’s staking yield.
     - Settlement limited to **same staking amount only**.
 
 **Example:**
@@ -66,7 +66,7 @@
     - Reward = **1000 × 4% × 50% = 20U**
 - If **2nd–20th generations user stake = 1000U** :
     - Calculated only on **100U cap**
-      Reward = **100 × 4% × 5% = 0.2U per generation**
+      Reward = **100 × 4% × 3% = 0.12U per generation**
 
 ## 3. Active Income — Community Bonus
 
