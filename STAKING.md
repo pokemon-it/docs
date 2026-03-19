@@ -36,15 +36,15 @@
 **Referral generations unlocked by number of direct referrals:**
 
 - V1 → 1 referral → **2 generations** (50% / 5%)
-- V2 → 2 referrals → **4 generations** (50% / 5% × 3)
-- V3 → 3 referrals → **6 generations** (50% / 5% × 5)
-- V4 → 4 referrals → **8 generations** (50% / 5% × 7)
-- V5 → 5 referrals → **10 generations** (50% / 5% × 9)
-- V6 → 6 referrals → **12 generations** (50% / 5% × 11)
-- V7 → 7 referrals → **14 generations** (50% / 5% × 13)
-- V8 → 8 referrals → **16 generations** (50% / 5% × 15)
-- V9 → 9 referrals → **18 generations** (50% / 5% × 17)
-- V10 → 10 referrals → **20 generations** (50% / 5% × 19)
+- V2 → 2 referrals → **4 generations** (50% / 3% × 3)
+- V3 → 3 referrals → **6 generations** (50% / 3% × 5)
+- V4 → 4 referrals → **8 generations** (50% / 3% × 7)
+- V5 → 5 referrals → **10 generations** (50% / 3% × 9)
+- V6 → 6 referrals → **12 generations** (50% / 3% × 11)
+- V7 → 7 referrals → **14 generations** (50% / 3% × 13)
+- V8 → 8 referrals → **16 generations** (50% / 3% × 15)
+- V9 → 9 referrals → **18 generations** (50% / 3% × 17)
+- V10 → 10 referrals → **20 generations** (50% / 3% × 19)
 
 
 **Rules:**
