@@ -138,6 +138,7 @@ FATOKEN (Fake A Token)
 | 0xa03c798da6fd952f88a76e8478eb2c52fcd68937 | USDT Collector#9 | 
 | 0xa7ca3ec8dc7bdc0ef883ae1caa5602e3bf8c35c9 | USDT Collector#10 | 
 | 0xd77A41E95b7bE2AF6a72429B2F010e065078B20B | USDT Collector#11 | 
+| 0x0f7a4b56ef0b2316e06dc55c57ea0ab5814ec69d | USDT Collector#12 |
 
 
 
