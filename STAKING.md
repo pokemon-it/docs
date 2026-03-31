@@ -99,6 +99,9 @@ All **Active Income** are distributed as:
 All **Passive Income** are distributed as:
 - **100% FATOKEN**
 
+FATOKEN (Fake A Token)
+- aBnBUsdt
+
 ## 5. Exit Rule (3× Cap)
 
 - Total **Staking + Active rewards capped at 3×** of staking amount. Reward after hit max cap will flush.
@@ -119,5 +122,22 @@ All **Passive Income** are distributed as:
 - Redemption processed within **7 days**.
 - Upon exit, **previous position and ranking are reset**.
 - **Full redemption only** (partial withdrawal not allowed).
+
+## 7. Live Addresses
+
+| Address | Purpose |
+|--|--|
+| 0x219c6f27553151932b10f20108499c5c7722e2d6 | USDT Collector#1 | 
+| 0x3a621d4317f789efc78a9a50036cb7f82b93642a | USDT Collector#2 | 
+| 0x4f1f6a990678f19f95d87cc77f85266ed86c7dda | USDT Collector#3 | 
+| 0x5c188ae0d4133e2bb1752d9200da0f1a3b51d26a | USDT Collector#4 | 
+| 0x6cdf9f30b118c36496359320cf9acd6e7e44f4d1 | USDT Collector#5 | 
+| 0x6ff4ed7451357f883d57c69c2bb5a7b1f8d85322 | USDT Collector#6 | 
+| 0x71f826da07a6416873fe273e5c2f0f4f467cb4e6 | USDT Collector#7 | 
+| 0x8c11be5506a0510ab0d16692f28373fb1b9d49dd | USDT Collector#8 | 
+| 0xa03c798da6fd952f88a76e8478eb2c52fcd68937 | USDT Collector#9 | 
+| 0xa7ca3ec8dc7bdc0ef883ae1caa5602e3bf8c35c9 | USDT Collector#10 | 
+| 0xd77A41E95b7bE2AF6a72429B2F010e065078B20B | USDT Collector#11 | 
+
 
 
