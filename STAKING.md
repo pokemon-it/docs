@@ -102,7 +102,7 @@ All **Passive Income** are distributed as:
 FATOKEN (Fake A-Token)
 - Name: aBnBUsdt
 - Symbol: aBnbUSDT
-- The rest follow VUSDT
+- The rest follow VUSDT settings.
 
 ## 5. Exit Rule (3× Cap)
 
