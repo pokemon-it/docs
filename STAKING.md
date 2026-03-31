@@ -27,9 +27,7 @@
 - User always has one staking order even multiple stake is made (more easy to work with max cap).
 - Pending roi will consume max-cap-quota.
 - Unstake early will remove pending roi from max-cap-quota.
-- Restake will restart new 7 days (This will cause early unstaking fee fall back to 20%).
-- Min stake amount: $100.
-- Max stake amount: $1000.
+- Stake amount, Min $100, Max $10000.
 
 ## 2. Active Income — Generation Bonus
 
