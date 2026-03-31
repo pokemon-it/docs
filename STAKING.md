@@ -93,11 +93,11 @@
 ## 4. Income Distribution Structure
 
 All **Active Income** are distributed as:
-- **70% ABC**
+- **70% FATOKEN**
 - **30% Blind Box Tickets ($10 Pool Ticket Applied)**
 
 All **Passive Income** are distributed as:
-- **100% ABC**
+- **100% FATOKEN**
 
 ## 5. Exit Rule (3× Cap)
 
