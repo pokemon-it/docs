@@ -99,8 +99,10 @@ All **Active Income** are distributed as:
 All **Passive Income** are distributed as:
 - **100% FATOKEN**
 
-FATOKEN (Fake A Token)
-- aBnBUsdt
+FATOKEN (Fake A-Token)
+- Name: aBnBUsdt
+- Symbol: aBnbUSDT
+- The rest follow VUSDT
 
 ## 5. Exit Rule (3× Cap)
 
