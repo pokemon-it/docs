@@ -70,7 +70,7 @@
 
 **Community bonus distribution tiers:**
 
-- P1 → **10% pool share** → **Small zone requires 10,000**
+- P1 → **10%** → **Small zone requires 10,000**
 - P2 → **20%** → Requires **50,000**
 - P3 → **30%** → Requires **100,000**
 - P4 → **40%** → Requires **300,000**
@@ -84,6 +84,7 @@
 **Pool Source:**
 
 - Derived from **passive roi income (4%)**.
+- Distribute by overriding way.
 - Triggered when user claim.
 - Assessment depth limited to **30 generations**.
 
