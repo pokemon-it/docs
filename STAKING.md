@@ -27,7 +27,7 @@
 - User always has one staking order even multiple stake is made (more easy to work with max cap).
 - Stake amount, Min $100, Max $10000.
 
-## 2. Active Income — Generation Bonus
+## 2. Active Income — Generation Bonus (a.k.a Growth Bonus)
 
 **Referral generations unlocked by number of direct referrals:**
 
@@ -64,7 +64,7 @@
     - Calculated only on **100U cap**
       Reward = **100 × 4% × 3% = 0.12U per generation**
 
-## 3. Active Income — Community Bonus
+## 3. Active Income — Community Bonus (a.k.a Consensus Bonus)
 
 **Community bonus distribution tiers:**
 
