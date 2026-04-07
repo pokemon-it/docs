@@ -91,7 +91,8 @@
 
 All **Active Income** are distributed as:
 - **70% FATOKEN**
-- **30% Blind Box Tickets ($10 Pool Ticket Applied)**
+- **30% For Pack# $10 Ticket**
+    - dust will flush
 
 All **Passive Income** are distributed as:
 - **100% FATOKEN**
