@@ -127,6 +127,7 @@ FATOKEN (Fake A-Token)
 
 | Address | Purpose |
 |--|--|
+| 0x2ef80DF8373Ab2A2Ad3f6E6Ed4D689a7E0d02C1B | Staking | 
 | 0x219c6f27553151932b10f20108499c5c7722e2d6 | USDT Collector#1 | 
 | 0x3a621d4317f789efc78a9a50036cb7f82b93642a | USDT Collector#2 | 
 | 0x4f1f6a990678f19f95d87cc77f85266ed86c7dda | USDT Collector#3 | 
@@ -140,5 +141,8 @@ FATOKEN (Fake A-Token)
 | 0xd77A41E95b7bE2AF6a72429B2F010e065078B20B | USDT Collector#11 | 
 | 0x0f7a4b56ef0b2316e06dc55c57ea0ab5814ec69d | USDT Collector#12 |
 
-
+## 8. Dev Addresses
+| Address | Purpose |
+|--|--|
+| 0x9609839f3ce7B6BE599d9cbAfcd3C9375c135561 | Staking | 
 
