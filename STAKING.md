@@ -128,6 +128,7 @@ FATOKEN (Fake A-Token)
 | Address | Purpose |
 |--|--|
 | 0x2ef80DF8373Ab2A2Ad3f6E6Ed4D689a7E0d02C1B | Staking | 
+| 0x37927da3C524643FAF8D666c1e0119cc64fb415c | faBnBUsdt | 
 | 0x219c6f27553151932b10f20108499c5c7722e2d6 | USDT Collector#1 | 
 | 0x3a621d4317f789efc78a9a50036cb7f82b93642a | USDT Collector#2 | 
 | 0x4f1f6a990678f19f95d87cc77f85266ed86c7dda | USDT Collector#3 | 
