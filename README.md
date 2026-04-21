@@ -75,6 +75,14 @@
 - A user can own different ticket wallets for different pool.
 
 ## 5) NFT Marketplace
+- Admin approval is required when seller's nft selling price is over xxx price.
+- No loyalty fee.
+- Trading fee will change, is between 20 -30%.
+- Seller receive USDT when deal, contract can support multiple token but do not support native coin.
+- When deal, neither buyer nor seller can straight get exchange item, instead it is in pending status first.
+   - e.g, upon buyer trigger "update receive", only he will get nft and seller receive usdt
+- Buyer's USDT will retain in contract while trading fee will auto forward to beneficiary.
+- No auction no bid, buyer only take order.
 
 ## 6) Live Addresses
 
