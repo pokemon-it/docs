@@ -83,6 +83,7 @@
    - e.g, upon buyer trigger "update receive", only he will get nft and seller receive usdt
 - Buyer's USDT will retain in contract while trading fee will auto forward to beneficiary.
 - No auction no bid, buyer only take order.
+- NFT's metadata (include image path) got to present for frontend usage.
 
 ## 6) Live Addresses
 
