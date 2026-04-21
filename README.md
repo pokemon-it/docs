@@ -1,4 +1,4 @@
-# Buy Pack 
+# buypack.tcg.zone
 ## 1) Pack Logic
 - Each group (happen at contract level, it is hidden from frontend) has many pools, at starting company will launch 3 pools, which is `Basic` ($10), `Pro` ($50) & `Master`($100) respectively.
 - Admin insert unrevealed card into each pool. e.g 1000 cards in basic pool, 1000 cards in pro & 1000 cards in master
@@ -74,11 +74,7 @@
 - 1 VUSDT = 1 USDT, VUSDT is mirror token of USDT.
 - A user can own different ticket wallets for different pool.
 
-## 5) Phase 2 Todo
-- When deposit, USDT > Atoken > VUSDT
-- When withdaw, VUSDT > Atoken > USDT
-- Atoken docs: https://aave.com/docs/aave-v3/smart-contracts/tokenization.
-- Rotate multiple Atoken collector (previously known as USDT collector).
+## 5) NFT Marketplace
 
 ## 6) Live Addresses
 
