@@ -18,7 +18,7 @@
 
 **Rules:**
 - Passive income yield is **4%**.
-- Direct referrals must stake an **amount equal to or greater than the user’s own stake** in order to increase static yield.
+- Direct referrals must stake an **100 (min stake)** in order to increase static yield.
 - Each additional qualified referral increases **+1% weekly yield**.
 - The **incremental weekly yield (1%–10%) is treated as active income**
 - Every 7 days pending roi will consolidate as confirmed roi.
@@ -46,7 +46,7 @@
 **Rules:**
 - Derived from **passive income**.
 - Each **1 direct referral unlocks 2 generations**.
-- Direct referrals must stake **equal or higher amount** to unlock generations.
+- Direct referrals must stake **100 (min stake)** to unlock generations.
 - **1st generation:**
     - Receives **50%** of the generation’s staking yield.
     - Allowed to earn from **larger stake**.
