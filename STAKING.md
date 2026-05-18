@@ -108,7 +108,7 @@ FATOKEN (Fake A-Token)
 - After reaching **3×** , user must **re-stake** to continue earning.
 - Exited stake **no longer generates staking rewards**.
 
-## 6. Unstaking & Redemption Rules
+## 6. Unstaking & Redemption Rules (Old)
 
 **Early unstaking fee: (Principal+Interest)**
 
@@ -122,6 +122,15 @@ FATOKEN (Fake A-Token)
 - Redemption processed within **7 days**.
 - Upon exit, **previous position and ranking are reset**.
 - **Full redemption only** (partial withdrawal not allowed).
+
+## 6.1 Unstaking
+> Unstake amount = total stake - total reward (roi + active bonus) - company deduction % 
+
+company deduction
+1st mth -20%
+2nd mth -15%
+3rd mth -10%
+4th mth onwards -5%
 
 ## 7. Live Addresses
 
