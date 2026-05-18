@@ -126,7 +126,7 @@ FATOKEN (Fake A-Token)
 ## 6.1 Unstaking
 > Unstake amount = total stake - total reward (roi + active bonus) - company deduction % 
 
-company deduction:
+**Company Deduction:**
 - 1st mth -20%
 - 2nd mth -15%
 - 3rd mth -10%
