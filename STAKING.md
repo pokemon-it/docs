@@ -31,16 +31,16 @@
 
 **Referral generations unlocked by number of direct referrals:**
 
-- V1 → 1 referral → **2 generations** (50% / 5%)
-- V2 → 2 referrals → **4 generations** (50% / 3% × 3)
-- V3 → 3 referrals → **6 generations** (50% / 3% × 5)
-- V4 → 4 referrals → **8 generations** (50% / 3% × 7)
-- V5 → 5 referrals → **10 generations** (50% / 3% × 9)
-- V6 → 6 referrals → **12 generations** (50% / 3% × 11)
-- V7 → 7 referrals → **14 generations** (50% / 3% × 13)
-- V8 → 8 referrals → **16 generations** (50% / 3% × 15)
-- V9 → 9 referrals → **18 generations** (50% / 3% × 17)
-- V10 → 10 referrals → **20 generations** (50% / 3% × 19)
+- G1 → 1 referral → **2 generations** (50% / 5%)
+- G2 → 2 referrals → **4 generations** (50% / 3% × 3)
+- G3 → 3 referrals → **6 generations** (50% / 3% × 5)
+- G4 → 4 referrals → **8 generations** (50% / 3% × 7)
+- G5 → 5 referrals → **10 generations** (50% / 3% × 9)
+- G6 → 6 referrals → **12 generations** (50% / 3% × 11)
+- G7 → 7 referrals → **14 generations** (50% / 3% × 13)
+- G8 → 8 referrals → **16 generations** (50% / 3% × 15)
+- G9 → 9 referrals → **18 generations** (50% / 3% × 17)
+- G10 → 10 referrals → **20 generations** (50% / 3% × 19)
 
 
 **Rules:**
@@ -68,16 +68,16 @@
 
 **Community bonus distribution tiers:**
 
-- P1 → **10%** → **Small zone requires 10,000**
-- P2 → **20%** → Requires **50,000**
-- P3 → **30%** → Requires **100,000**
-- P4 → **40%** → Requires **300,000**
-- P5 → **50%** → Requires **500,000**
-- P6 → **60%** → Requires **1,000,000**
-- P7 → **70%** → Requires **3,000,000**
-- P8 → **80%** → Requires **5,000,000**
-- P9 → **90%** → Requires **10,000,000**
-- P10 → **100%** → Requires **30,000,000**
+- C1 → **10%** → **Small zone requires 10,000**
+- C2 → **20%** → Requires **50,000**
+- C3 → **30%** → Requires **100,000**
+- C4 → **40%** → Requires **300,000**
+- C5 → **50%** → Requires **500,000**
+- C6 → **60%** → Requires **1,000,000**
+- C7 → **70%** → Requires **3,000,000**
+- C8 → **80%** → Requires **5,000,000**
+- C9 → **90%** → Requires **10,000,000**
+- C10 → **100%** → Requires **30,000,000**
 
 **Pool Source:**
 
