@@ -20,7 +20,7 @@
 - packs sold all.
 - programmer trigger open draw.
 - player trigger claim to know what he win.
-- player either accept card or do buy back, this step is same as buy pack.
+- player either accept card or do buy back (this step is same as buy pack).
 - buy back nft will flow back to admin, not to pool (gacha pool cannot be reuse).
 
 ## 4) Bonus
