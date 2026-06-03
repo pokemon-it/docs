@@ -15,9 +15,20 @@
 - let say opened `start position` is 123.
 - first player will receive nft with position between 123 to 133 from pool.
 
-## 3) Bonus
+## 3) Flow
+- players buy gacha packs.
+- packs sold all.
+- programmer trigger open draw.
+- player trigger claim to know what he win.
+- player either accept card or do buy back, this step is same as buy pack.
+- buy back nft will flow back to admin, not to pool (gacha pool cannot be reuse).
+
+## 4) Bonus
 - Share same bonus & ranking mechanism with buy pack, except payout is in USDT instead of VUSDT.
 - Share same sales (both personal & group) contribution way with buy pack.
+
+## 5) Buy Back
+- Same as buy pack.
 
 ## 4) Capital Protection
 
