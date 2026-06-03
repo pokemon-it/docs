@@ -30,9 +30,9 @@
 ## 5) Buy Back
 - Same as buy pack.
 
-## 4) Capital Protection
+## 6) Capital Protection
 
-## 5) Live Addresses
+## 7) Live Addresses
 
 | Address | Purpose |
 |--|--|
