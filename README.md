@@ -85,13 +85,7 @@
 - No auction no bid, buyer only take order.
 - NFT's metadata (include image path) got to present for frontend usage.
 
-## 6) Gacha (Blindbox)
-- Buyer wont know what he will win until result release date.
-- Buy back charges 10%
-- No contribute to neither group sales nor rank
-- Direct sponsor bonus (1 level, tbc)
-
-## 7) Live Addresses
+## 6) Live Addresses
 
 | Address | Purpose |
 |--|--|
