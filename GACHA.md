@@ -28,7 +28,7 @@
 - Share same sales (both personal & group) contribution way with buy pack.
 
 ## 5) Buy Back
-- Same as buy pack.
+- Same as buy pack, except buy back tax may will change.
 
 ## 6) Capital Protection
 
