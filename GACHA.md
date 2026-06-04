@@ -28,7 +28,7 @@
 - Share same sales (both personal & group) contribution way with buy pack.
 
 ## 5) Buy Back
-- Same as buy pack, except buy back tax may will change.
+- Same as buy pack, except buy back tax may will change and payout is in USDT instead of VUSDT.
 
 ## 6) Capital Protection
 
