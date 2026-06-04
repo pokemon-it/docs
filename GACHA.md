@@ -24,8 +24,7 @@
 - buy back nft will flow back to admin, not to pool (gacha pool cannot be reuse).
 
 ## 4) Bonus
-- Share same bonus & ranking mechanism with buy pack, except payout is in USDT instead of VUSDT.
-- Share same sales (both personal & group) contribution way with buy pack.
+- Share same bonus/ranking/tree/sales accumulation with buy pack, except payout is in USDT instead of VUSDT.
 
 ## 5) Buy Back
 - Same as buy pack, except buy back tax may will change and payout is in USDT instead of VUSDT.
