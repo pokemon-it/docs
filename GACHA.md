@@ -31,7 +31,7 @@
 - Same as buy pack, except buy back tax may will change and payout is in USDT instead of VUSDT.
 
 ## 6) Capital Protection
-- tbc.
+- No capital protection, no free ticket.
 
 ## 7) Live Addresses
 
