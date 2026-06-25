@@ -137,7 +137,6 @@ FATOKEN (Fake A-Token)
 | Address | Purpose |
 |--|--|
 | 0x2ef80DF8373Ab2A2Ad3f6E6Ed4D689a7E0d02C1B | Staking | 
-| 
 | 0x37927da3C524643FAF8D666c1e0119cc64fb415c | faBnBUsdt | 
 | 0xa9251ca9de909cb71783723713b21e4233fbf1b1 | Real aBnBUsdt | 
 | 0x8047C08Bc001f8206cD0A60BB58c793676C5B01B | VT Token | 
