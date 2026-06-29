@@ -124,7 +124,7 @@ FATOKEN (Fake A-Token)
 - **Full redemption only** (partial withdrawal not allowed).
 
 ## 6.1 Unstaking
-> Unstake amount = total stake - total reward (roi + active bonus) - company deduction % 
+> Formula: Unstake amount = total stake - total reward (roi + active bonus) - company deduction % 
 
 **Company Deduction:**
 - 1st mth -20%
