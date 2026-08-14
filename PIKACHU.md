@@ -2,6 +2,8 @@
 
 ## 1) things to take note of
 1. new tree, dun mix with previous pokemon tree.
+2. pikachu contract will call pcs to add liquidity, so add pikachu contract in exclude list of TCG contract.
+3. 
 
 ## 2) Useful Links/Sources
 1. (plan) https://docs.google.com/spreadsheets/d/11_BJNzQ6BhfHJ_796o_kKDucsH9490JLhd3rIg3zOH4/
