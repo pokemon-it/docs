@@ -26,4 +26,4 @@
 | 0x116c810fb1c49029f4693f9ae52ba905797309aa| Node Reward Receiver |  |
 | 0x4aaaea3ff6753aaa1b97878afdc4b41365b8e8cc| Mystery Pool Receiver |  |
 | 0xa080b696650d5e06f8bb2720289ac5db52c77fca| LP Receiver |  |
-| 0x0xf728aa54a74233a2eAbfA38A9482466fDa70D6FB | TCG/USDT pair | | 
+| 0xf728aa54a74233a2eAbfA38A9482466fDa70D6FB | TCG/USDT pair | | 
