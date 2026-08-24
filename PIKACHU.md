@@ -18,7 +18,7 @@
 | Address | Title | Remarks |
 |--|--|--|
 | 0x0c3c1cbFb38886313b00fC44482d990627FE7c33 | Deployer | |
-|0x5201026a87143D3A761428017A803e2f7685e563| PikaRef  | New Referral Contract |
+|0x2b6B2F781B1569a76e1997Ab9F7349597bf3778a| PikaRef  | New Referral Contract |
 | 0x155f698e85E5EA572917abf97C2616eB1da211c9| TCG |  |
 | 0x09626764cd45Bf7921a43B7421E10CD52A3De909| Pikachu Staking |  |
 | 0x88e446a2d9bbe829fb3bc39c580e2328888b305e| Marketing Beneficiary |  |
