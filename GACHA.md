@@ -32,21 +32,6 @@
 ## 6) Capital Protection
 - No capital protection, no free ticket.
 
-## 7) Live Addresses
 
-| Address | Purpose |
-|--|--|
-| 0x9d887267F86C294a0f02859a3ED29DBf4A99E425 | Gacha |
-| 0x15B818B332162EA6Ee96addb8c4Da5b33823B45D | Gacha NFT |
-| 0x972f6175c5fda13351064ddaea9d246b00727dfe | USDT Collector#1 |
-| 0xe4efa1f6216c62917e23d9a033d68a3215d131b5 | USDT Collector#2 |
-| 0x1878c677d71c9adabab509d7ddfa606f7f14412a | USDT Collector#3 |
-| 0xcf41b0e35fa9197ce94858013a0fded3e443d14e | USDT Collector#4 |
-| 0x80f728bd121f723b6104ed7e0b5145c891f557a3 | USDT Collector#5 |
-| 0x747d0b1819711fdb1564d2620246926e652cb144 | USDT Collector#6 |
-| 0x4706e46a68d0901cfa6169cdfa17890c2e0e8088 | USDT Collector#7 |
-| 0xc0655bab10ba8b4e8dbb6b09b5a5c28a85daceb9 | USDT Collector#8 |
-| 0x7fe4ab191644544cac6aa3f6cf5af7e1c3057b55 | USDT Collector#9 |
-| 0xd3547081eb048b71580e19472f8df781eac0e460 | USDT Collector#10 |
 
   
